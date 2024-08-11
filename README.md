@@ -1,12 +1,16 @@
+👋 Hi, I'm Matthew Low, a Systems Design Engineering student at the University of Waterloo from Markham, Ontario.
 
-👋 Hi, my name is Matthew Low and I'm a systems design engineering student at the University of Waterloo from Markham, Ontario
+🎓 I'm most passionate about iOS development, with strong experience in Swift. While iOS is my primary focus, I’m also skilled in various other areas and always eager to learn and expand my skill set.
 
-:mortar_board: I am most passionate about iOS development with experience in Swift, but also have experience working in other areas. I am always open to new learning opportunities to expand my skillset
+📱 iOS Skills
+- Frameworks & Tools: SwiftUI, UIKit, Firebase, CoreData, SwiftData, Xcode
+- Architecture & Testing: MVVM, Unit Testing with XCTest and Swift Testing
+- Networking: RESTful APIs, URLSession, CRUD
 
-📱 My IOS tools/skills: SwiftUI, UIKit, unit-testing with XCTest and Swift Testing, Firebase, CoreData, SwiftData, XCode, Networking, MVVM
+🏀 I thrive on coding, problem-solving, and designing practical mobile apps that make a difference. Outside of tech, I'm passionate about music and sports—whether it's exploring new music, watching hockey or basketball, or staying active through sports, these outside interests keep me balanced and inspired.
 
-:computer: I love coding, problem solving, and designing practical mobile apps
+📫 Feel free to reach out to me via email at mk2low@uwaterloo.ca.
 
-📫 Feel free to reach out to me via email at mk2low@uwaterloo.ca
-
-Main Languages: Swift / Python
+🛠️ Main Languages
+- Swift
+- Python
